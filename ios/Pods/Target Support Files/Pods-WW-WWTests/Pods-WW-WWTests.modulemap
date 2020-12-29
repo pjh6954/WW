@@ -1,0 +1,6 @@
+module Pods_WW_WWTests {
+  umbrella header "Pods-WW-WWTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

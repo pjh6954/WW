@@ -1,0 +1,6 @@
+module Pods_WW {
+  umbrella header "Pods-WW-umbrella.h"
+
+  export *
+  module * { export * }
+}
